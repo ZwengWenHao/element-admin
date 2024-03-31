@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkpracticalcomp"]=self["webpackChunkpracticalcomp"]||[]).push([[887],{98887:function(r,e,t){t.r(e),t.d(e,{default:function(){return s}});var u,c,n={created(){const{params:r,query:e}=this.$route,{path:t}=r;this.$router.replace({path:"/"+t,query:e})},render:function(r){return r()}},a=n,l=t(81656),p=(0,l.A)(a,u,c,!1,null,null,null),s=p.exports}}]);
-//# sourceMappingURL=887.f16534d9.js.map
