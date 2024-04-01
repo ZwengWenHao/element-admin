@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkpracticalcomp"]=self["webpackChunkpracticalcomp"]||[]).push([[523],{7523:function(l,c,u){u.r(c);var a,p,e=u(81656),n={},t=(0,e.A)(n,a,p,!1,null,null,null);c["default"]=t.exports}}]);
-//# sourceMappingURL=523.74581ed5.js.map
