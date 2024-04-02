@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpracticalcomp"]=self["webpackChunkpracticalcomp"]||[]).push([[494],{38494:function(t,c,l){l.r(c),l.d(c,{default:function(){return e}});var a=function(){var t=this,c=t._self._c;return c("div",{staticClass:"daily_card"},[c("img",{attrs:{src:"/home/wl/moyu",alt:""}})])},r=[],u=l(81656),n={},s=(0,u.A)(n,a,r,!1,null,null,null),e=s.exports}}]);
+//# sourceMappingURL=494.02dd132b.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpracticalcomp"]=self["webpackChunkpracticalcomp"]||[]).push([[363],{84363:function(e,t,n){function p(){const e='   <split-pane v-on:resize="resize" :min-percent=\'20\' :default-percent=\'30\' split="vertical">\n        <template slot="paneL">\n        A\n        </template>\n        <template slot="paneR">\n        B\n        </template>\n    </split-pane>';return e}n.r(t),n.d(t,{codeContent:function(){return p}})}}]);
+//# sourceMappingURL=363.a2d50376.js.map
